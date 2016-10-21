@@ -102,3 +102,5 @@ import:
 - package: github.com/docker/leadership
 - package: github.com/satori/go.uuid
   version: ^1.1.0
+- package: github.com/mitchellh/mapstructure
+  version: f3009df150dadf309fdee4a54ed65c124afad715
